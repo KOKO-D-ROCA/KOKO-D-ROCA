@@ -9,7 +9,7 @@ import { Button } from './ui/button';
 
 export default function HeroSection() {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/5585815632050?text=Olá! Gostaria de saber mais sobre os ovos caipira da KO-KO D\'ROÇA', '_blank');
+    window.open('https://wa.me/558581563205?text=Olá! Gostaria de saber mais sobre os ovos caipira da KO-KO D\'ROÇA', '_blank');
   };
 
   return (
